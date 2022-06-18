@@ -1,0 +1,132 @@
+.content-header{
+    background-color: #add8e6;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.content-header h1 .glyphicon{
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.content-awal{
+    position: relative;
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 0px 7px 0px #829fad;
+    min-height: 110px;
+    margin-bottom: 10px;
+}
+.content-awal h4{
+    background-color: #00aaff;
+    padding: 9px;
+    color: #fff;
+    border-radius: 4px;
+}
+.pembayaran{
+    margin-top: 0px;
+}
+.info-box-text{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.info-box-value{
+    font-size: 18px;
+}
+.list-form{
+    background-color: #fafafa;
+    border: 1px solid #eee;
+    padding: 12px;
+    padding-bottom: 20px;
+    padding-left: 3px;
+}
+.list-form ul{
+    margin-bottom: 7px;
+}
+.list-form ul li{
+    text-decoration: none;
+    display: block;
+    float: left;
+    margin-top: -7px;
+    padding-right: 12%;
+}
+.btn1{
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    background-color: #43a536;
+    color: #fff;
+}
+.btn2{
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    background-color: rgb(14, 142, 185);
+    color: #fff;
+}
+.btn3{
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    background-color: #bb0b0b;
+    color: #fff;
+    margin-left: -40px;
+    margin-right: 120px;
+}
+.btn4{
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    background-color: #bb0b0b;
+    color: #fff;
+    text-align: center;
+}
+.btn5{
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    background-color: rgb(14, 142, 185);
+    color: #fff;
+    width: 100px;
+}
+.btn5a{
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    background-color: rgb(95, 196, 230);
+    color: #fff;
+    width: 100px;
+}
+.btn1:hover{
+    background-color: #36882b;
+}
+.btn5:hover{
+    background-color:  rgb(14, 116, 150);
+}
+.btn2:hover{
+    background-color:  rgb(14, 116, 150);
+}
+.btn4:hover{
+    background-color: #9c0808;
+}
+.btn3:hover{
+    background-color: #9c0808;
+}
+.form1{
+border: 1px solid #eee;
+height: 30px;
+border-radius: 2px;
+}
+.result{
+    background-color: #469c51;
+    padding: 5px;
+    color: #fff;
+    border-radius: 1px;
+    margin-top: 10px;
+}
